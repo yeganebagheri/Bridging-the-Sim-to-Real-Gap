@@ -28,5 +28,5 @@ Students: Yegane Bagheri and Chiara Roberta Casale.
 - `adr_train.py` to train and test AutoDR in Source -> Target
 
 - ## Contributors
-- [Yegane Bagheri](https://github.com/your_username)
-- [Chiara Casale](https://github.com/teammate_username)
+- [Yegane Bagheri](https://github.com/https://github.com/yeganebagheri)
+- [Chiara Casale](https://github.com/https://github.com/chiararcasale)
