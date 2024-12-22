@@ -26,3 +26,7 @@ Students: Yegane Bagheri and Chiara Roberta Casale.
 - `env_autodr` environment with functions to make AutoDR work
 - `adr.py` functions to define AutoDR
 - `adr_train.py` to train and test AutoDR in Source -> Target
+
+- ## Contributors
+- [Yegane Bagheri](https://github.com/your_username)
+- [Chiara Casale](https://github.com/teammate_username)
